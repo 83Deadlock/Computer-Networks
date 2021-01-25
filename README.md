@@ -1,2 +1,3 @@
-# Redes-De-Computadores
-Trabalhos práticos realizados no âmbito da UC de Redes de Computadores do 3º Ano do MiEI @ Universidade do Minho
+# Computer-Networks
+
+Practical exercises about Computer Networks, course unit of the 3rd year of the Integrated Master in Computer Engineering at Univerisdade do Minho.
